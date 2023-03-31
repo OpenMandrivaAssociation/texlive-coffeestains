@@ -1,6 +1,6 @@
 Name:		texlive-coffeestains
 Version:	59703
-Release:	1
+Release:	2
 Summary:	Add coffee stains to documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coffeestains
