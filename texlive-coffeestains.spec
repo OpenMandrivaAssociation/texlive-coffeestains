@@ -3,7 +3,7 @@ Version:	59703
 Release:	2
 Summary:	Add coffee stains to documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coffeestains
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/coffeestains
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coffeestains.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coffeestains.doc.r%{version}.tar.xz
